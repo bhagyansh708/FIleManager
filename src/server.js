@@ -72,9 +72,9 @@ const startServer = async () => {
     // Start server
     app.listen(PORT, () => {
       console.log(`
-╔═══════════════════════════════════════╗
-║   FileManager API - Secure Edition    ║
-╚═══════════════════════════════════════╝
+\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+\u2551   FileManager API - Secure Edition    \u2551
+\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
 
 Server running on: http://localhost:${PORT}
 Environment: ${process.env.NODE_ENV || 'development'}
